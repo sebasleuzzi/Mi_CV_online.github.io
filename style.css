@@ -1,0 +1,201 @@
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container-fluid {
+    padding: 20px;
+    font-size: 25px;
+
+ }
+
+.navbar-toggler {
+    margin-right: 40px;
+}
+
+.titulo {
+    margin-left: 10px;
+    font-size: 30px;
+}
+
+
+h1,h2{
+    font-family: 'Tilt Neon', cursive;
+    font-size: 50px;
+    font-weight: 800;
+    color: white;
+}
+
+ul {
+    list-style: none;
+}
+
+#imagen {
+    border-radius: 50%;
+    height: 200px;
+    width: 200px;
+}
+
+#nombre_imagen {
+    padding-top: 20px;
+    color: white;
+    background-image: url(banner2.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 300px;
+}
+
+#informacion_personal{
+    margin-top: 20px;
+    margin-bottom: 20px;    
+}
+
+#informacion_personal h2 { 
+    background-image: url(banner.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 80px
+}
+
+#informacion_personal p{
+    font-size: 25px;
+    font-family: 'Tilt Neon', cursive;
+    font-weight: 400;
+    text-align: center;
+    padding: 20px 100px;
+}
+
+#experiencia {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+#experiencia h2 {
+    background-image: url(banner.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 80px;
+    width:auto;
+
+}
+#experiencia li {
+    font-size: 18px;
+    font-family: 'Tilt Neon', cursive;
+}
+.experiencias {
+    margin-top: 20px;
+    margin-bottom: 40px;
+}
+
+#formacion_academica {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+#formacion_academica h2 {
+    background-image: url(banner.jpg);
+    
+    background-position: center;
+    height: 80px
+}
+
+#formacion_academica h3, li {
+    font-family: 'Tilt Neon', cursive;
+}
+
+.formaciones {
+    margin-top: 20px;
+    margin-bottom: 40px;
+}
+
+#habilidades {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+#habilidades h2 {
+    background-image: url(banner.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 80px
+}
+
+#habilidades h4 {
+    background-color: rgb(218, 213, 213);
+    font-size: 35px;
+}
+
+#habilidades li {
+    font-size: 25px;
+    font-family: 'Tilt Neon', cursive;
+}
+
+#contacto {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+#contacto h2 {
+    background-image: url(banner.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 80px
+}
+
+#contacto p {
+    font-size: 25px;
+    font-family: 'Tilt Neon', cursive;
+}
+
+.contacto {
+    margin-top: 20px;
+    margin-bottom: 40px;
+}
+
+.boton {
+  width:300px;
+  margin: 10px 0px;
+  padding: 10px;
+  background:#000;
+  color:#fff;
+  border:solid 1px #000;
+}
+h3 {
+color: blue;
+font-size: 25px;
+font-family: 'Tilt Neon', cursive;
+}
+
+#redes_sociales {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+#redes_sociales h2 {
+    background-image: url(banner.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 80px
+}
+
+.redes{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 10px;
+    gap: 20px;
+    font-size: 50px;
+}
+
+
+
+
+
+
+
+
+
